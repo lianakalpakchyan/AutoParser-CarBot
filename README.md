@@ -11,6 +11,7 @@ cd auto_am
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+cd auto_am
 run main.py
 ```
 
