@@ -16,11 +16,13 @@ run main.py
 ```
 
 ## Usage
-1. Visit https://t.me/auto_am_bot.
-2. Follow the commands. 
+1. Create .env file in auto_am file and make a variable BOT_TOKEN.
+2. Visit https://t.me/auto_am_bot.
+3. Follow the commands. 
 
 ## Note:
-The application needs BOT_TOKEN from .env file. For that contact me.
+The application needs BOT_TOKEN from .env file. 
+For that contact me.
 
 ## Status
 Always can be improved :)
