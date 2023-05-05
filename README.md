@@ -7,7 +7,7 @@ https://t.me/auto_am_bot is used to find a car from that db based on different c
 
 ```bash
 git clone git@github.com:LianaSmile/AutoParser-CarBot.git
-cd auto_am
+cd AutoParser-CarBot
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
